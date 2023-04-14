@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.head{
+  text-align: center;
+  margin: auto;
+}
+body{
+  background-image: linear-gradient(to right top,#E8E8F3,#A0A0FF,#5959FF,#0808FF);
+}
+.div1{
+  display: flex;
+  justify-content: space-evenly;
+}
+.span{
+  border: 1px solid #5050FF;
+  box-shadow: 0px 5px 5px 5px #7979F9;
+  padding: 45px;
+  background-color:  #3030FB;
+  border-radius:8px;
+  margin-left: 600px;
+  cursor: pointer;
+}
+.win{
+  border:1px solid #5050FF;
+  box-shadow: 0px 5px 5px 5px#7979F9;
+  padding: 30px;
+  margin-left: 610px;
+}
