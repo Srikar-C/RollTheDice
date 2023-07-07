@@ -1,3 +1,3 @@
 # RollTheDice
 
-https://srikar-c.github.io/RollTheDice/
+An application tells which player won the match
